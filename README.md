@@ -1,6 +1,6 @@
-# Master_Thesis_Project
+# Scheduling and Load Balancing Framework for Security Aware Fog Networks (SOFNET)
 
-Proposed SOFNET (Scheduling and Load Balancing Framework for Security Aware Fog Networks), our proposed
+Proposed Scheduling and Load Balancing Framework for Security Aware Fog Networks (SOFNET), our proposed
 approach distributes job load across the fog network and schedules real-time jobs based on deadline, communication
 delay, size, resource utilisation, and security constraints.
 
